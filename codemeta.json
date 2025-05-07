@@ -25,5 +25,8 @@
   "programmingLanguage": [
     "C#"
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.214656",
+  "version": "3198731498.19274897124",
+  "dateModified": "2025-05-07"
 }
