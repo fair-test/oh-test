@@ -1,0 +1,29 @@
+{
+  "name": "oh-test",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/oh-test",
+  "dateCreated": "2025-05-07",
+  "description": "asdfwerasdf",
+  "issueTracker": "https://github.com/fair-test/oh-test/issues",
+  "keywords": [
+    "432sfd"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "C#"
+  ],
+  "type": "SoftwareSourceCode"
+}
